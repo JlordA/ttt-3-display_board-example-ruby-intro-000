@@ -1,4 +1,4 @@
-def display_board #(X,O)
+def display_board
   puts "   " + "|" + "   " + "|" + "   "
   puts "___________"
   puts "   " + "|" + "   " + "|" + "   "
